@@ -41,7 +41,15 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SantianDev&theme=tokyonight&hide_border=true)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SantianDev&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
+---
+
+### 💭 Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
