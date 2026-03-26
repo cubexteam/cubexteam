@@ -29,7 +29,6 @@
 
 <div align="center">
 
-[![Top Langs](https://profile-weld-seven.vercel.app/api/top-langs/?username=SantianDev&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SantianDev&theme=tokyonight&hide_border=true)
 
