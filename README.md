@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70A5FD,100:1a1b27&height=150&section=header&text=SantianDev&fontSize=50&fontColor=70A5FD&animation=fadeIn"/>
+</div>
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+SantianDev+%F0%9F%91%8B;Minecraft+Bedrock+Developer+%F0%9F%8E%AE;Go+%E2%80%A2+PHP+%E2%80%A2+Java;Building+cool+stuff+%F0%9F%94%A5)](https://git.io/typing-svg)
 
@@ -37,10 +41,12 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SantianDev&theme=tokyonight&hide_border=true)
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SantianDev&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70A5FD,100:1a1b27&height=100&section=footer"/>
 </div>
