@@ -1,1 +1,1 @@
-https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SantianDev
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cubexteam&layout=compact&langs_count=10)
