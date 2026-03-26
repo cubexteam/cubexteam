@@ -26,8 +26,6 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -38,16 +36,6 @@
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SantianDev&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/SantianDev/SantianDev/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
